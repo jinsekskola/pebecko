@@ -466,7 +466,7 @@ export default function AdminPage() {
   };
 
   return (
-    <div className="min-h-screen bg-black text-foreground p-8">
+    <div className="min-h-screen bg-black text-white p-8">
       <h1 className="text-4xl font-bold mb-8">Administrátorský panel</h1>
 
       <div className="mb-8 bg-gradient-to-r from-blue-900/20 to-purple-900/20 p-6 rounded-lg border border-white/10">
